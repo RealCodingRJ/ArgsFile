@@ -20,6 +20,7 @@ namespace intro
 
                     File.Create(args[2]);
 
+                    intro.DB.CreateDB(args[2]);
                 }
 
 
