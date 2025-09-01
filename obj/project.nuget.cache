@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "goDuWiVA3gA=",
+  "success": true,
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu-24.04\\home\\ryan\\Code\\GettingGoodAtCSharp\\Week-1\\Day-1\\intro\\intro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Crawz\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.7\\microsoft.netcore.app.ref.9.0.7.nupkg.sha512",
+    "C:\\Users\\Crawz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.7\\microsoft.windowsdesktop.app.ref.9.0.7.nupkg.sha512",
+    "C:\\Users\\Crawz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.7\\microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512",
+    "C:\\Users\\Crawz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.7\\microsoft.netcore.app.host.win-x64.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

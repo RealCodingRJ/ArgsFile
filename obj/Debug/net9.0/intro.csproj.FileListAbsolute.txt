@@ -1,0 +1,14 @@
+/home/ryan/Code/GettingGoodAtCSharp/Week-1/Day-1/intro/bin/Debug/net9.0/intro
+/home/ryan/Code/GettingGoodAtCSharp/Week-1/Day-1/intro/bin/Debug/net9.0/intro.deps.json
+/home/ryan/Code/GettingGoodAtCSharp/Week-1/Day-1/intro/bin/Debug/net9.0/intro.runtimeconfig.json
+/home/ryan/Code/GettingGoodAtCSharp/Week-1/Day-1/intro/bin/Debug/net9.0/intro.dll
+/home/ryan/Code/GettingGoodAtCSharp/Week-1/Day-1/intro/bin/Debug/net9.0/intro.pdb
+/home/ryan/Code/GettingGoodAtCSharp/Week-1/Day-1/intro/obj/Debug/net9.0/intro.GeneratedMSBuildEditorConfig.editorconfig
+/home/ryan/Code/GettingGoodAtCSharp/Week-1/Day-1/intro/obj/Debug/net9.0/intro.AssemblyInfoInputs.cache
+/home/ryan/Code/GettingGoodAtCSharp/Week-1/Day-1/intro/obj/Debug/net9.0/intro.AssemblyInfo.cs
+/home/ryan/Code/GettingGoodAtCSharp/Week-1/Day-1/intro/obj/Debug/net9.0/intro.csproj.CoreCompileInputs.cache
+/home/ryan/Code/GettingGoodAtCSharp/Week-1/Day-1/intro/obj/Debug/net9.0/intro.dll
+/home/ryan/Code/GettingGoodAtCSharp/Week-1/Day-1/intro/obj/Debug/net9.0/refint/intro.dll
+/home/ryan/Code/GettingGoodAtCSharp/Week-1/Day-1/intro/obj/Debug/net9.0/intro.pdb
+/home/ryan/Code/GettingGoodAtCSharp/Week-1/Day-1/intro/obj/Debug/net9.0/intro.genruntimeconfig.cache
+/home/ryan/Code/GettingGoodAtCSharp/Week-1/Day-1/intro/obj/Debug/net9.0/ref/intro.dll
